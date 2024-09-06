@@ -1,0 +1,35 @@
+_repo: In-furthest-Ind-b-The-narrative-of-Mr-Edward-Carlyon-of-the-honourable-East-India-Company-s-s__74298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grier, Sydney C.
+    alias: Gregg, Hilda Caroline
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '26562'
+    url: http://www.gutenberg.org/2009/agents/26562
+    wikipedia: https://en.wikipedia.org/wiki/Hilda_Gregg
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74298'
+language: en
+pgterms:marc904: https://archive.org/details/infurthestindnar00grierich
+pgterms:marc905: 20240819071026grier
+pgterms:marc906: '1894'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bWilliam Blackwood and Sons, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'East India Company -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'In furthest Ind : $b The narrative of Mr Edward Carlyon of the honourable
+  East India Company''s service'
+url: http://www.gutenberg.org/ebooks/74298
